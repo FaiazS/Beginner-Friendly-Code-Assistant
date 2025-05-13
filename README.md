@@ -1,5 +1,3 @@
-#AI Code-Assistant
-
 # 🤖 AI Code Assistant (Beginner-Friendly LLM Coding Assistant)
 
 Welcome to **AI Code Assistant** – a simple but powerful project that uses Large Language Models (LLMs) to help developers (especially beginners) generate, document, and explain code step by step using natural language instructions.
